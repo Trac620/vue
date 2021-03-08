@@ -522,7 +522,7 @@ var vue = new Vue({
     checkoutBool: false,
     cart: [],
     cartSubTotal: 0,
-    tax: 0.065,
+    tax: 0.45,
     cartTotal: 0
   },
   
